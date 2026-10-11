@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /en/
+
+Sitemap: https://bembeproducciones.cu/sitemap.xml

@@ -1,0 +1,22 @@
+{
+  "name": "Bembé Producciones — Música y espectáculos",
+  "short_name": "Bembé",
+  "description": "Productora de música y espectáculos en Sancti Spíritus, Cuba. Cartelera, artistas, tienda y contrataciones.",
+  "lang": "es-CU",
+  "dir": "ltr",
+  "start_url": "index.html?origen=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fbf6ec",
+  "theme_color": "#14120f",
+  "categories": ["music", "entertainment", "events"],
+  "icons": [
+    { "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ],
+  "shortcuts": [
+    { "name": "Cartelera", "url": "eventos.html" },
+    { "name": "Contratar artista", "url": "contacto.html#cotizacion" },
+    { "name": "Tienda", "url": "tienda.html" }
+  ]
+}

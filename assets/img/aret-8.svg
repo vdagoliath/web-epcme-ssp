@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-label="Retrato ilustrado de artista 7">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="hsl(313 40% 16%)"/>
+      <stop offset="1" stop-color="hsl(353 65% 34%)"/>
+    </linearGradient>
+    <linearGradient id="fig" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="hsl(353 85% 62%)"/>
+      <stop offset="1" stop-color="hsl(313 80% 30%)"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="900" fill="url(#bg)"/>
+  <g opacity=".22" stroke="rgba(255,255,255,.6)" stroke-width="2" fill="none">
+    <circle cx="360" cy="330" r="230"/>
+    <circle cx="360" cy="330" r="290"/>
+  </g>
+  <circle cx="360" cy="300" r="118" fill="url(#fig)"/>
+  <path d="M150 900c0-160 94-260 210-260s210 100 210 260z" fill="url(#fig)"/>
+  <rect y="820" width="720" height="80" fill="rgba(0,0,0,.35)"/>
+</svg>
